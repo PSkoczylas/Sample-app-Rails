@@ -18,3 +18,7 @@
 
 # Ignore Spring files.
 /spring/*.pid
+=======
+*.swp
+*.swo
+*.*~
